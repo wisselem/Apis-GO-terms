@@ -2,7 +2,7 @@
 
 ## Filtering GO Terms
 
-### For Non-Coders
+### Beginner Friendly
 
 Created by Emily Wissel
 
